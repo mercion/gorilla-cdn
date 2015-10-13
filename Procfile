@@ -1,1 +1,1 @@
-web: gunicorn hello.cpp --log-file=-
+web: gunicorn app.py --log-file=-
