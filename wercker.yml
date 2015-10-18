@@ -63,3 +63,4 @@ deploy:
         bucket-url: $AWS_BUCKET_URL
         key-id: $AWS_ACCESS_KEY_ID
         key-secret: $AWS_SECRET_ACCESS_KEY
+        app-name: $HEROKU_APP_NAME
